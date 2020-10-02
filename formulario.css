@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(187, 230, 230);
+}
+
+input, select{
+    
+    background-repeat:no-repeat;
+    padding:5px 5px 5px 25px;
+    margin: 0.1em;
+    width:200px;
+    border-radius: 1em; /*Bordes de los recuadros*/
+    text-align: center;
+}
+label{
+    font-weight: bold;
+    
+    
+}
+h1{
+    text-decoration: underline; /*Linea*/
+}
+select{
+    width: auto;
+}
+input.comentario{
+    width: 300px;
+    height: 150px;
+    
+}
